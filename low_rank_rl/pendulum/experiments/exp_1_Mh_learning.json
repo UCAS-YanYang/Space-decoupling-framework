@@ -1,0 +1,12 @@
+{
+    "step_state": 0.1,
+    "decimal_state": 1,
+    "step_action": 0.1,
+    "decimal_action": 1,
+    "episodes": 30000,
+    "max_steps": 100,
+    "alpha": 0.005,
+    "gamma": 0.9,
+    "n_simulations": 10,
+    "rank": 5
+  }
